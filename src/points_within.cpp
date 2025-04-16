@@ -1,6 +1,7 @@
 #ifdef length
 #undef length
 #endif
+
 #include <R.h>
 #include <Rinternals.h>
 #include <set>
